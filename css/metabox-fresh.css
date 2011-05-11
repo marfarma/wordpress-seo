@@ -1,0 +1,12 @@
+/**
+ * Metabox Tabs
+ */
+ul.wpseo-metabox-tabs li.active {
+background-color: #F1F1F1;
+}
+ul.wpseo-metabox-tabs li.active, div.wpseo-tab-content {
+border-color: #DFDFDF;
+}
+.wpseo-metabox-tabs .active a {
+color: #333;
+}
